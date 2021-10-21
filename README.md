@@ -26,7 +26,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 Provide instructions and examples for use. Include screenshots as needed.
   
-![Screen Shot](assets/images/The NY Quiz.png)
+![The NY Quiz](https://user-images.githubusercontent.com/89559612/138371383-ef2d874e-5790-4c32-a438-e10230654558.png)
 
 ## Credits
 
